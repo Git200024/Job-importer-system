@@ -66,12 +66,12 @@ Build a **scalable job importer system** that can:
 
 | Component        | Tech Stack             |
 |------------------|------------------------|
-| Frontend         | React   |
+| Frontend         | React                  |
 | Backend API      | Node.js + Express      |
 | Queue            | BullMQ + Redis         |
 | DB               | MongoDB Atlas          |
 | Scheduler        | node-cron              |
-| Deployment       | GitHub + Render |
+| Deployment       | GitHub                 |
 
 ---
 
