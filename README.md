@@ -67,6 +67,8 @@ docker ps
 │   ├── public/
 │   ├── src/
 │   └── package.json
+├── docs/
+|   └── package.json
 └── README.md
 ```
 
