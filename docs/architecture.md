@@ -17,7 +17,7 @@ Build a **scalable job importer system** that can:
 - Built with React (Create React App)
 - Communicates with backend REST APIs
 - Displays job import history logs (file name, totals, new, updated, failed)
-- Hosted on Vercel
+
 
 ### 2. **Backend (Node.js + Express)**
 - Provides endpoints like `/import`, `/import-logs`
@@ -66,12 +66,12 @@ Build a **scalable job importer system** that can:
 
 | Component        | Tech Stack             |
 |------------------|------------------------|
-| Frontend         | React (Vercel Hosted)  |
+| Frontend         | React   |
 | Backend API      | Node.js + Express      |
 | Queue            | BullMQ + Redis         |
 | DB               | MongoDB Atlas          |
 | Scheduler        | node-cron              |
-| Deployment       | GitHub + Vercel/Render |
+| Deployment       | GitHub + Render |
 
 ---
 
